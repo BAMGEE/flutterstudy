@@ -1,2 +1,2 @@
 # flutterstudy
-test flutter study
+git push alias test
